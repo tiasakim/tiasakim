@@ -1,4 +1,4 @@
-- 👋 Hello! I’m @tiasakim (she/her), a PNW native and recent B.A. Computer Science graduate from Wellesley College.
+- 👋 Hello! I’m [Tiasa (tee-AY-suh) Kim](@tiasakim) (she/her), a PNW native and recent B.A. Computer Science graduate from Wellesley College.
 - 👀 I’m interested in urban environments + mobility, decarbonization, annd new innovations / ventures.
 - 👩🏻‍💻 I'm currently developing the webpage for MIT Global Startup Workshop 2023 and working at MIT Energy Initiative as an EdX Online Course Developer for 11.449 Decarbonizing Urban Mobility.
 - 💞️ I’m passionate about traveling, fitness, cooking, café culture, and personality tests -- I'm a Debater (ENTP) and Achiever (Type 3)!
