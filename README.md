@@ -2,7 +2,7 @@
 - 👀 I’m interested in urban environments + mobility, decarbonization, annd new innovations / ventures.
 - 👩🏻‍💻 I'm currently developing the webpage for MIT Global Startup Workshop 2023 and working at MIT Energy Initiative as an EdX Online Course Developer for 11.449 Decarbonizing Urban Mobility.
 - 💞️ I’m passionate about traveling, fitness, cooking, café culture, and personality tests -- I'm a Debater (ENTP) and Achiever (Type 3)!
-- 📫 Curious about my projects or passions? Let's chat! [Email me](tiasa.kim@gmail.com) or connect on [LinkedIn](linkedin.com/tiasakim) 🔗 
+- 📫 Curious about my projects or passions? Let's chat! [Email me](tiasa.kim@gmail.com) or [connect on LinkedIn](linkedin.com/tiasakim) 🔗 
 
 <!---
 tiasakim/tiasakim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
